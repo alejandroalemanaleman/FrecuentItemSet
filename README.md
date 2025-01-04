@@ -1,4 +1,4 @@
-# Frequent Itemset
+# Frequent Item Set
 
 ## Prerequisites
 
@@ -7,14 +7,17 @@ Before running the code, ensure you have the following packages installed in you
 - mrjob (https://pypi.org/project/mrjob/)
 - setuptools (https://pypi.org/project/setuptools/)
 
-You can install them by running:
-
+You can install them by executing in the console:
+```
 pip install mrjob
 pip install setuptools
+```
 
 ## How to Run
 
 To execute the script, use the following command.
 You can adjust the values of the parameters --min-support and --k as needed:
 
-- python frequent_itemset.py transactions.txt --min-support=2 --k=2
+```
+python frequent_itemset.py transactions.txt --min-support=2 --k=2
+```
