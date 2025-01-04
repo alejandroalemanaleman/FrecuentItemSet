@@ -1,0 +1,7 @@
+apple,banana,kiwi,lemon
+apple,banana,cherry
+banana,cherry,lemon,apple
+apple,cherry,orange
+orange,lemon,strawberry
+apple,banana,kiwi,lemon,papaya
+berry,watermelon
